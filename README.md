@@ -16,10 +16,14 @@ deactivate -> berhenti<br>
 https://towardsdatascience.com/practical-guide-for-virtual-environments-in-python-b59bd5fe8f1 -> source <br>
 **show hidden folder**<br>
 Ctrl+H<br>
+**nmap ipaddress**<br>
+https://www.raspberrypi.org/documentation/remote-access/ip-address.md<br>
 
 # Raspberrypi
 
 **Cannot Currently Show the Desktop VNC**<br>
 https://www.youtube.com/watch?v=gncD5dxeEQk
+**connect ssh**<br>
+ssh pi@*ip*<br>
  
  
