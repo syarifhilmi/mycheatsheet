@@ -17,5 +17,9 @@ https://towardsdatascience.com/practical-guide-for-virtual-environments-in-pytho
 **show hidden folder**<br>
 Ctrl+H<br>
 
+# Raspberrypi
+
+**Cannot Currently Show the Desktop VNC**<br>
+https://www.youtube.com/watch?v=gncD5dxeEQk
  
  
