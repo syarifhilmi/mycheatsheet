@@ -20,6 +20,8 @@ Ctrl+H<br>
 https://www.raspberrypi.org/documentation/remote-access/ip-address.md<br>
 **install .deb**<br>
 udo dpkg -i *file*.deb<br>
+**delete not empty dir**<br>
+rm -rf <br>
 
 # Raspberrypi
 
