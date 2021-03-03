@@ -1,4 +1,4 @@
-# mylinuxcheatsheet
+# linux
 
 **Run OBS** <br>
 LIGBGL_ALWAYS_SOFTWARE=1 obs <br>
@@ -18,6 +18,8 @@ https://towardsdatascience.com/practical-guide-for-virtual-environments-in-pytho
 Ctrl+H<br>
 **nmap ipaddress**<br>
 https://www.raspberrypi.org/documentation/remote-access/ip-address.md<br>
+**install .deb**<br>
+udo dpkg -i *file*.deb<br>
 
 # Raspberrypi
 
