@@ -11,7 +11,7 @@ sudo apt-get remove *apps*<br>
 **install python virtualenv**<br>
 sudo apt install python3-virtualenv -> instalasi virtualenv<br>
 virtualenv *nama environemt* -> bikin environment<br>
-source *nama environment* -> jalanin environment<br>
+source *nama environment*/bin/activate -> jalanin environment<br>
 deactivate -> berhenti<br>
 https://towardsdatascience.com/practical-guide-for-virtual-environments-in-python-b59bd5fe8f1 -> source <br>
 **show hidden folder**<br>
